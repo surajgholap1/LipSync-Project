@@ -1,0 +1,10 @@
+students = ['sam', ‘pam’, 'rocky', 'austin', "Steve’' , ‘bruce’,
+‘henry’, 'clark', 'diana']
+student = "Barry"
+
+# slice a particular range
+marvel = students[4:8]
+flash = student[1:3]
+
+print (marvel)
+print (flash)
